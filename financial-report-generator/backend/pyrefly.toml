@@ -1,0 +1,3 @@
+# Pyrefly configuration
+# Absolute path to the project virtual environment interpreter
+python_interpreter = "C:/Users/SAI KUMAR/OneDrive/Documents/AI Financial Research Report Generator/financial-report-generator/backend/venv/Scripts/python.exe"
