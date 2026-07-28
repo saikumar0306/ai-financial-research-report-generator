@@ -192,6 +192,8 @@ git push hf main
 | TXT    | Plain text     | ❌     | Annual reports, filings   |
 
 ---
+
+---
 ## Template fields - in this project
 
 | Template Field    | Source            |
@@ -209,7 +211,7 @@ git push hf main
 | Revenue Chart     | Matplotlib        |
 | EBITDA Chart      | Matplotlib        |
 
-
+---
 
 with Examples
 Example 1
