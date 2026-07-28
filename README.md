@@ -192,6 +192,34 @@ git push hf main
 | TXT    | Plain text     | ❌     | Annual reports, filings   |
 
 ---
+with Examples
+Example 1
+JSW Energy
+Expected output
+
+Revenue
+EBITDA
+PAT
+EBITDA Margin
+Highlights
+Risk
+1 chart
+Summary
+Recommendation
+
+Example 2
+ICICI Bank
+Expected output
+
+Income
+Net Profit
+NIM
+CASA
+Loans
+Deposits
+Highlights
+Charts
+Recommendation
 
 ## License
 
