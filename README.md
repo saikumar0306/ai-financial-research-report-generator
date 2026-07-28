@@ -192,6 +192,25 @@ git push hf main
 | TXT    | Plain text     | ❌     | Annual reports, filings   |
 
 ---
+## Template fields - in this project
+
+| Template Field    | Source            |
+| ----------------- | ----------------- |
+| Company Name      | User input        |
+| Executive Summary | Gemini AI         |
+| Revenue           | Gemini extraction |
+| EBITDA            | Gemini extraction |
+| EBITDA Margin     | Gemini extraction |
+| PAT               | Gemini extraction |
+| Financial Table   | Structured JSON   |
+| Key Highlights    | Gemini AI         |
+| Risks             | Gemini AI         |
+| Recommendation    | Gemini AI         |
+| Revenue Chart     | Matplotlib        |
+| EBITDA Chart      | Matplotlib        |
+
+
+
 with Examples
 Example 1
 JSW Energy
